@@ -21,6 +21,7 @@ Make sure you have the following installed:
 
    ```open vs code, open terminal
    git clone https://github.com/aswindas-111/Volobot_MachineTest.git
+   
 2. create virtual environment(Recommended)
 3. pip install -r requirements.txt
 4. cd myproject
